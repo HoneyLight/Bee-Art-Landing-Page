@@ -311,7 +311,7 @@ footer{
     justify-content: space-between;
     width: 100%;
     padding: 1rem;
-    border: 2px solid black;
+    /* border: 2px solid black; */
 }
 .footerContent .column{
     display: flex;
